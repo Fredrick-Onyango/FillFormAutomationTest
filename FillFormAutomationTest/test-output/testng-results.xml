@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25011" started-at="2019-07-18T10:18:04Z" finished-at="2019-07-18T10:18:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25011" started-at="2019-07-18T10:18:04Z" finished-at="2019-07-18T10:18:29Z">
+      <class name="test.UITests">
+        <test-method status="PASS" signature="openBrowser()[pri:1, instance:test.UITests@62ee68d8]" name="openBrowser" duration-ms="19991" started-at="2019-07-18T10:18:04Z" finished-at="2019-07-18T10:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="VerifyHomepageTitle()[pri:2, instance:test.UITests@62ee68d8]" name="VerifyHomepageTitle" duration-ms="29" started-at="2019-07-18T10:18:24Z" finished-at="2019-07-18T10:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomepageTitle -->
+        <test-method status="PASS" signature="FillForms()[pri:3, instance:test.UITests@62ee68d8]" name="FillForms" duration-ms="623" started-at="2019-07-18T10:18:24Z" finished-at="2019-07-18T10:18:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillForms -->
+        <test-method status="PASS" signature="VerifySuccessMessage()[pri:4, instance:test.UITests@62ee68d8]" name="VerifySuccessMessage" duration-ms="2147" started-at="2019-07-18T10:18:25Z" finished-at="2019-07-18T10:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessMessage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:5, instance:test.UITests@62ee68d8]" name="closeBrowser" duration-ms="2102" started-at="2019-07-18T10:18:27Z" finished-at="2019-07-18T10:18:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.UITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
