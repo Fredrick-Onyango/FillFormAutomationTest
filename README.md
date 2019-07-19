@@ -1,11 +1,11 @@
 # FillFormAutomationTest
 Testing of UI using Selenium Webdriver(Java)
 
-Instructions to setup
+**Instructions to setup**
 Git clone FillFormAutomationTest Repo
 
 **Requirements**
-Eclipse ide
-Chrome driver
-TestNG library for Test run and reporting
-Selemium Java libraries
+1. Eclipse ide
+2. Chrome driver
+3. TestNG library for Test run and reporting
+4. Selemium Java libraries
