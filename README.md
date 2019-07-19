@@ -8,4 +8,4 @@ Git clone FillFormAutomationTest Repo
 Eclipse ide
 Chrome driver
 TestNG library for Test run and reporting
-Se;emium Java libraries
+Selemium Java libraries
